@@ -1,4 +1,4 @@
-![Tervetuloa taivaalle](/img/tervetuloa_taivaalle.png)
+![Tervetuloa taivaalle](img/tervetuloa_taivaalle.png)
 
 
 
@@ -148,7 +148,7 @@ AINA ENNEN UUTTA SUORITUSTA SINUN TULEE SAADA MAAKOULUTUS HYPPYMESTARILTA
 
 PÄÄ- JA VARAVARJO
 
-![](/img/laskuvarjokalusto_paavarjo_ja_varavarjo.jpg)
+![](img/laskuvarjokalusto_paavarjo_ja_varavarjo.jpg)
 
 
 
