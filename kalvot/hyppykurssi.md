@@ -334,13 +334,13 @@ Varjo lentää kun:
 <table>
 <tr>
 <td>
-![Täysiliito](/img/lentotila_taysliito.jpg)
+![Täysiliito](img/lentotila_taysliito.jpg)
 </td>
 <td>
-![Puolijarrutus](/img/lentotila_puolijarrutus.jpg)
+![Puolijarrutus](img/lentotila_puolijarrutus.jpg)
 </td>
 <td>
-![Täysijarrutus](/img/lentotila_taysijarrutus.jpg)
+![Täysijarrutus](img/lentotila_taysijarrutus.jpg)
 </td>
 </tr>
 <tr>
